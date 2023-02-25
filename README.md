@@ -1,1 +1,1 @@
-# strider.bot.djdavee.hu
+STRIDER BOT WEBSITE
